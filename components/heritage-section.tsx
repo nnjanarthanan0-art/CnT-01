@@ -17,7 +17,7 @@ export default function HeritageSection() {
           <div className="relative">
             <div className="aspect-[4/5] relative overflow-hidden">
               <Image
-                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-JuKExUTrZtrn52GwhpxvbmGd38DGpE.png"
+                src="https://images.unsplash.com/photo-1609137144813-7d722d5796f6?auto=format&fit=crop&w=600&q=80"
                 alt="Heritage deity statue"
                 fill
                 className="object-cover object-top"
